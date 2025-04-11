@@ -212,6 +212,14 @@ function HomeContent({ onStart }) {
           un lugar de antiguas fortalezas y murallas que resuenan con los ecos de los héroes pasados, surge vuestra misión. 
           Vuestra tierra, forjada por siglos de historia, será el punto de partida de este viaje que marcará el futuro de Galicia.
         </p>
+
+        <p className="text-amber-900 mb-4 italic">
+        Vuestra misión, encomendada por mí, será de gran peso para el destino de nuestra amada Galicia. 
+        En estos tiempos oscuros, la sombra ha comenzado a invadir nuestras tierras, cubriéndolas de maldad y desesperanza. 
+        Solo vosotros, valientes caballeros, tenéis el coraje y la nobleza necesarios para purificar los caminos y devolverles la luz que antaño brillaba en sus senderos. 
+        El <span className="font-bold text-amber-700">Atrapamomentos</span>, artefacto antiguo y poderoso, será vuestra única arma contra las sombras. Solo con él podréis purificar los lugares que recorráis, 
+        pues cada misión que completéis irá despojando a nuestra tierra de la oscuridad que la consume.
+        </p>
         
         <p className="text-amber-900 mb-4 italic">
         El viaje que emprendéis no será fácil, pues debéis recorrer cinco arduas etapas. 
