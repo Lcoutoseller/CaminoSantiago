@@ -113,35 +113,35 @@ export default function App() {
             id="etapa1" 
             active={activeTab === 'etapa1'} 
             onClick={() => handleTabChange('etapa1')}
-            label="Etapa 1"
+            label="E1"
             icon={<BookOpenIcon size={16} />}
           />
           <TabButton 
             id="etapa2" 
             active={activeTab === 'etapa2'} 
             onClick={() => handleTabChange('etapa2')}
-            label="Etapa 2"
+            label="E2"
             icon={<BookOpenIcon size={16} />}
           />
           <TabButton 
             id="etapa3" 
             active={activeTab === 'etapa3'} 
             onClick={() => handleTabChange('etapa3')}
-            label="Etapa 3"
+            label="E3"
             icon={<BookOpenIcon size={16} />}
           />
           <TabButton 
             id="etapa4" 
             active={activeTab === 'etapa4'} 
             onClick={() => handleTabChange('etapa4')}
-            label="Etapa 4"
+            label="E4"
             icon={<BookOpenIcon size={16} />}
           />
           <TabButton 
             id="etapa5" 
             active={activeTab === 'etapa5'} 
             onClick={() => handleTabChange('etapa5')}
-            label="Etapa 5"
+            label="E5"
             icon={<BookOpenIcon size={16} />}
           />
         </div>
